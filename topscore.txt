@@ -1,0 +1,10 @@
+bot0.2 59
+bot0.5 51
+bot0.5 43
+bot0.1 36
+bot0.3 36
+bot0.4 31
+bot0.0 29
+bot0.7 29
+bot0.4 27
+SuperPaulo 21
