@@ -1,2 +1,3 @@
 # Snake_Python
-Snake game made in python
+
+*Classic Snake game made with python
